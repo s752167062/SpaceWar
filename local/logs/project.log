@@ -1,0 +1,56 @@
+2018-08-16T06:38:04.247Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-16T06:38:04.253Z - normal: checking language setting...
+2018-08-16T06:38:04.253Z - normal: Language: zh
+2018-08-16T06:38:04.848Z - success: protocol editor-framework registered
+2018-08-16T06:38:04.848Z - success: protocol app registered
+2018-08-16T06:38:04.848Z - success: protocol theme registered
+2018-08-16T06:38:04.849Z - success: protocol packages registered
+2018-08-16T06:38:04.849Z - success: protocol unpack registerred
+2018-08-16T06:38:04.849Z - success: protocol disable-commonjs registerred
+2018-08-16T06:38:05.050Z - normal: connected!
+2018-08-16T06:38:05.055Z - normal: Check project /Users/yajing/Documents/GitHub/SpaceWar
+2018-08-16T06:38:05.059Z - normal: Initializing project /Users/yajing/Documents/GitHub/SpaceWar
+2018-08-16T06:38:05.062Z - normal: Initializing Cocos2d
+2018-08-16T06:38:05.864Z - normal: Initializing Asset Database
+2018-08-16T06:38:05.907Z - success: protocol uuid registerred
+2018-08-16T06:38:05.907Z - success: protocol db registerred
+2018-08-16T06:38:05.907Z - success: protocol thumbnail registerred
+2018-08-16T06:38:05.908Z - normal: Loading editor/builtin packages
+2018-08-16T06:38:06.069Z - success: assets loaded
+2018-08-16T06:38:06.073Z - success: builder loaded
+2018-08-16T06:38:06.076Z - success: cocos-analytics loaded
+2018-08-16T06:38:06.081Z - success: console loaded
+2018-08-16T06:38:06.122Z - success: fb-instant-games loaded
+2018-08-16T06:38:06.130Z - success: hierarchy loaded
+2018-08-16T06:38:06.136Z - success: inspector loaded
+2018-08-16T06:38:06.138Z - success: keystore loaded
+2018-08-16T06:38:06.144Z - success: node-library loaded
+2018-08-16T06:38:06.146Z - success: package-asset loaded
+2018-08-16T06:38:06.148Z - success: preferences loaded
+2018-08-16T06:38:06.153Z - success: project-exporter loaded
+2018-08-16T06:38:06.173Z - success: project-importer loaded
+2018-08-16T06:38:06.177Z - success: project-settings loaded
+2018-08-16T06:38:06.183Z - success: ui-kit loaded
+2018-08-16T06:38:06.189Z - success: scene loaded
+2018-08-16T06:38:06.191Z - success: sprite-editor loaded
+2018-08-16T06:38:06.196Z - success: store loaded
+2018-08-16T06:38:06.203Z - success: timeline loaded
+2018-08-16T06:38:06.204Z - normal: Loading builtin packages
+2018-08-16T06:38:06.210Z - success: asset-db-debugger loaded
+2018-08-16T06:38:06.211Z - success: color-picker loaded
+2018-08-16T06:38:06.212Z - success: jsb-adapter loaded
+2018-08-16T06:38:06.217Z - success: package-manager loaded
+2018-08-16T06:38:06.218Z - success: qqplay-adapter loaded
+2018-08-16T06:38:06.226Z - success: sdkbox loaded
+2018-08-16T06:38:06.232Z - success: tester loaded
+2018-08-16T06:38:06.241Z - success: ui-grid loaded
+2018-08-16T06:38:06.246Z - success: ui-kit-preview-extra loaded
+2018-08-16T06:38:06.250Z - success: ui-kit-preview loaded
+2018-08-16T06:38:06.255Z - success: ui-tree loaded
+2018-08-16T06:38:06.255Z - success: weapp-adapter loaded
+2018-08-16T06:38:07.515Z - normal: Loading packages
+2018-08-16T06:38:07.522Z - normal: Watching packages
+2018-08-16T06:38:07.617Z - normal: Run Application
+2018-08-16T06:38:08.283Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["image/common2/fangjianliebiao.png","image/common2/lishizhanji.png","image/common2/paijuliushui.png","image/common2/shangcheng.png","image/common2/wanfaxuanze.png","image/common2/weikaishi.png","image/common2/yijieshu.png","image/common2/youxizhong.png","image/common2/zhanjihuifang.png","image/common2/tuoguanzhong.png","image/common2/txt_agreement.png","image/common2/videoflag.png","image/common2/zhunbeizhong.png","image/common2/jinbichangwanfa.png","image/common2/changshamajiang.png","image/common2/hongzhongmajiang.png","image/common2/zhuanzhuanmajiang.png"]
+2018-08-16T06:38:08.362Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["image/game/game_utils_mj/bu.png","image/game/game_utils_mj/chi.png","image/game/game_utils_mj/gang.png","image/game/game_utils_mj/guo.png","image/game/game_utils_mj/hu.png","image/game/game_utils_mj/peng.png","image/game/game_utils_mj/point1.png","image/game/game_utils_mj/ui_outline.png","image/game/game_utils_mj/yao.png"]
+2018-08-16T06:38:14.183Z - success: preview server running at http://localhost:7456
